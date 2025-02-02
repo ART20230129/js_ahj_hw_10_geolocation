@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s11kgrqrjerlqems?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ahj-hw-10-geolocation)
+
+
+
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).

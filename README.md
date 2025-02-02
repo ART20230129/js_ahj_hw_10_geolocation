@@ -1,6 +1,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/s11kgrqrjerlqems?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ahj-hw-10-geolocation)
 
+![CI](https://github.com/ART20230129/js-ahj-hw-10-geolocation/actions/workflows/web.yml/badge.svg)
 
+Ссылка на [Github Pages](https://art20230129.github.io/js_ahj_hw_10_geolocation/)
 
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
